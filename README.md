@@ -1,2 +1,2 @@
-# Segundo Trimestre-mobile-first
-JESUS - 50
+# Segundo trimestre
+Pedro Arthur 38
